@@ -1,4 +1,7 @@
 # Curso PHP
 
-# Repositórios da galera
+## Exercícios
+* [IP Logger](exercicios/ip-logger.md)
+
+## Repositórios da galera
 * 
